@@ -45,7 +45,7 @@
 **1. Fork and clone this repository using**
 
    ```
-   git clone https://github.com/shivamyadav11 && cd ChatIO/
+   git clone https://github.com/surajprasad1407 && cd ChatIO/
    ```  
    
 **2. Install required dependencies/dev dependencies using**  
