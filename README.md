@@ -80,4 +80,4 @@ If you found this project useful, please leave a :star: on Github💔.
 ---
 
 ## ✨ Project Maintained By-
-  - [Shivam Yadav](https://www.linkedin.com/in/shivamyadav7470/)
+  - [Suraj Prasad](https://www.linkedin.com/feed/)
